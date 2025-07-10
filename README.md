@@ -52,11 +52,9 @@ print(f"Predicted Role: {role}, Confidence: {confidence}%")
 ## Output
 The script outputs:
 - A classification report with precision, recall, and F1-score
+    ![Output Screenshot](output%20screenshots/Screenshot%202025-07-10%20134518.png)
 - A confusion matrix heatmap
 - Predicted job role and confidence for sample resume input
-
-  ![Output Screenshot](output%20screenshots/Screenshot%202025-07-10%20134518.png)
-
 
 
 ---
