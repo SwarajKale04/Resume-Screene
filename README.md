@@ -55,7 +55,8 @@ The script outputs:
 - A confusion matrix heatmap
 - Predicted job role and confidence for sample resume input
 
-  ![Output Screenshot](screenshots/Screenshot%202025-07-10%20134518.png)
+  ![Output Screenshot](output%20screenshots/Screenshot%202025-07-10%20134518.png)
+
 
 
 ---
