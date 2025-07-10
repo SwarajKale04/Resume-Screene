@@ -60,7 +60,7 @@ The script outputs:
 ### Sample Output Images
 
 #### Confusion Matrix
-![Confusion Matrix](output screenshots/Screenshot 2025-07-10 134518.png)
+![Sample Output](output%20screenshot/Screenshot%202025-07-10%20134518.png)
 
 *Predicted Role: Data Science*  
 *Predicted with confidence: Data Science 45.0%*
