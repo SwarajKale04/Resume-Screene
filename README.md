@@ -60,13 +60,13 @@ The script outputs:
 ### Sample Output Images
 
 #### Confusion Matrix
-![image1](image1)
+![Confusion Matrix](output%20screenshot/confusion_matrix.png)
 
 *Predicted Role: Data Science*  
 *Predicted with confidence: Data Science 45.0%*
 
 #### Classification Report
-![image2](image2)
+![Classification Report](output%20screenshot/classification_report.png)
 
 ---
 
