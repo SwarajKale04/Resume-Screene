@@ -57,19 +57,6 @@ The script outputs:
 
 ---
 
-### Sample Output Images
-
-#### Confusion Matrix
-![Sample Output](output%20screenshot/Screenshot%202025-07-10%20134518.png)
-
-*Predicted Role: Data Science*  
-*Predicted with confidence: Data Science 45.0%*
-
-#### Classification Report
-![Classification Report](output%20screenshot/classification_report.png)
-
----
-
 ## Notes
 - The model uses a maximum of 1000 TF-IDF features for efficiency.
 - Adjust `max_iter` in `LogisticRegression` if convergence issues occur.
