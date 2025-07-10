@@ -1,7 +1,7 @@
 # Resume Classifier
 
 ## Overview
-This project implements a resume classification system that predicts job roles based on resume text. It uses natural language processing (NLP) techniques and a logistic regression model to categorize resumes into predefined job categories.
+This project implements a resume classification system that predicts job roles based on resume text. It uses natural language processing (NLP) techniques and a logistic regression model to categorize resumes into various job roles.
 
 ## Features
 - Cleans and preprocesses resume text using regex and NLTK stopwords
@@ -54,6 +54,21 @@ The script outputs:
 - A classification report with precision, recall, and F1-score
 - A confusion matrix heatmap
 - Predicted job role and confidence for sample resume input
+
+---
+
+### Sample Output Images
+
+#### Confusion Matrix
+![image1](image1)
+
+*Predicted Role: Data Science*  
+*Predicted with confidence: Data Science 45.0%*
+
+#### Classification Report
+![image2](image2)
+
+---
 
 ## Notes
 - The model uses a maximum of 1000 TF-IDF features for efficiency.
